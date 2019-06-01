@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BullgorAteLavishMeal.stages.0.label>съедено шикарное блюдо</BullgorAteLavishMeal.stages.0.label>
+  <BullgorAteLavishMeal.stages.0.description>Я не наемся этим.</BullgorAteLavishMeal.stages.0.description>
+
+  <BullgorAteFineMeal.stages.0.label>съедено хорошее блюдо</BullgorAteFineMeal.stages.0.label>
+  <BullgorAteFineMeal.stages.0.description>Я не наемся этим.</BullgorAteFineMeal.stages.0.description>
+
+  <BullgorAteCorpse.stages.0.label>съедена туша</BullgorAteCorpse.stages.0.label>
+  <BullgorAteCorpse.stages.0.description>Да! Больше! БОЛЬШЕ!</BullgorAteCorpse.stages.0.description>
+
+
+  <!-- Special nature thoughts -->
+
+  <BullgorAteHumanlikeMeatDirect.stages.0.label>съедена сырая человечина</BullgorAteHumanlikeMeatDirect.stages.0.label>
+  <BullgorAteHumanlikeMeatDirect.stages.0.description>Сырое и кровавое! Мне нравится это!</BullgorAteHumanlikeMeatDirect.stages.0.description>
+
+  <BullgorAteHumanlikeMeatDirectCannibal.stages.0.label>съедена сырая человечина</BullgorAteHumanlikeMeatDirectCannibal.stages.0.label>
+  <BullgorAteHumanlikeMeatDirectCannibal.stages.0.description>Сырое и кровавое! Мне нравится это!</BullgorAteHumanlikeMeatDirectCannibal.stages.0.description>
+
+  <BullgorAteHumanlikeMeatAsIngredient.stages.0.label>съедено блюдо с человечиной</BullgorAteHumanlikeMeatAsIngredient.stages.0.label>
+  <BullgorAteHumanlikeMeatAsIngredient.stages.0.description>Я предпочитаю это сырым.</BullgorAteHumanlikeMeatAsIngredient.stages.0.description>
+
+  <BullgorAteHumanlikeMeatAsIngredientCannibal.stages.0.label>съедено блюдо с человечиной</BullgorAteHumanlikeMeatAsIngredientCannibal.stages.0.label>
+  <BullgorAteHumanlikeMeatAsIngredientCannibal.stages.0.description>Я предпочитаю это сырым.</BullgorAteHumanlikeMeatAsIngredientCannibal.stages.0.description>
+
+
+</LanguageData>

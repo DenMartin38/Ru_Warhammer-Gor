@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GorPsychicDrone.stages.0.label>умиротворение</GorPsychicDrone.stages.0.label>
+  <GorPsychicDrone.stages.0.description>Я чувствую что-то странное и неизвестное. Оно меня успокаивает.</GorPsychicDrone.stages.0.description>
+  <GorPsychicDrone.stages.1.label>слабый гул</GorPsychicDrone.stages.1.label>
+  <GorPsychicDrone.stages.1.description>У меня болит голова.</GorPsychicDrone.stages.1.description>
+  <GorPsychicDrone.stages.2.label>средний гул</GorPsychicDrone.stages.2.label>
+  <GorPsychicDrone.stages.2.description>Я начинаю нервничать. Это раздражает.</GorPsychicDrone.stages.2.description>
+  <GorPsychicDrone.stages.3.label>сильный гул</GorPsychicDrone.stages.3.label>
+  <GorPsychicDrone.stages.3.description>Я жажду бойни!</GorPsychicDrone.stages.3.description>
+  <GorPsychicDrone.stages.4.label>запредельный гул</GorPsychicDrone.stages.4.label>
+  <GorPsychicDrone.stages.4.description>Моя кровь кипит! Я уничтожу всё!</GorPsychicDrone.stages.4.description>
+
+
+  <!-- Death -->
+
+  <GorKnowColonistExecuted.stages.0.label>справедливая казнь поселенца</GorKnowColonistExecuted.stages.0.label>
+  <GorKnowColonistExecuted.stages.0.description>Виновен или нет, кого это волнует?</GorKnowColonistExecuted.stages.0.description>
+  <GorKnowColonistExecuted.stages.1.label>эвтаназия поселенца</GorKnowColonistExecuted.stages.1.label>
+  <GorKnowColonistExecuted.stages.1.description>Я бы мог сделать это быстрее.</GorKnowColonistExecuted.stages.1.description>
+  <GorKnowColonistExecuted.stages.2.label>казнь поселенца</GorKnowColonistExecuted.stages.2.label>
+  <GorKnowColonistExecuted.stages.2.description>Колонист был убит.</GorKnowColonistExecuted.stages.2.description>
+  <GorKnowColonistExecuted.stages.3.label>смерть поселенца от извлечения органов</GorKnowColonistExecuted.stages.3.label>
+  <GorKnowColonistExecuted.stages.3.description>Теперь есть из чего сделать суп.</GorKnowColonistExecuted.stages.3.description>
+
+  <GorKnowPrisonerDiedInnocent.stages.0.label>смерть пленника</GorKnowPrisonerDiedInnocent.stages.0.label>
+  <GorKnowPrisonerDiedInnocent.stages.0.description>Плевать.</GorKnowPrisonerDiedInnocent.stages.0.description>
+
+  <GorKnowColonistDied.stages.0.label>смерть поселенца</GorKnowColonistDied.stages.0.label>
+  <GorKnowColonistDied.stages.0.description>Пфф.</GorKnowColonistDied.stages.0.description>
+
+  <GorBondedAnimalDied.stages.0.label>смерть любимца</GorBondedAnimalDied.stages.0.label>
+  <GorBondedAnimalDied.stages.0.description>Это было моё!</GorBondedAnimalDied.stages.0.description>
+
+  <GorPawnWithGoodOpinionDied.stages.0.label>умер мой друг {0}</GorPawnWithGoodOpinionDied.stages.0.label>
+  <GorPawnWithGoodOpinionDied.stages.0.description>Этот мне нравился.</GorPawnWithGoodOpinionDied.stages.0.description>
+
+  <GorPawnWithBadOpinionDied.stages.0.label>мой соперник, {0}, умер</GorPawnWithBadOpinionDied.stages.0.label>
+  <GorPawnWithBadOpinionDied.stages.0.description>Одной проблемой меньше.</GorPawnWithBadOpinionDied.stages.0.description>
+
+  <!--[Duplicated] <MySonDied.stages.0.label>my son {0} died</MySonDied.stages.0.label>-->
+  <!--[Duplicated] <MySonDied.stages.0.description>So weak. Such dissapointment</MySonDied.stages.0.description>-->
+
+  <!--[Duplicated] <MyDaughterDied.stages.0.label>my daughter {0} died</MyDaughterDied.stages.0.label>-->
+  <!--[Duplicated] <MyDaughterDied.stages.0.description>So weak. Such dissapointment</MyDaughterDied.stages.0.description>-->
+
+  <!--[Core] <MyHusbandDied.stages.0.label>my husband {0} died</MyHusbandDied.stages.0.label>-->
+  <!--[Core] <MyHusbandDied.stages.0.description>My husband is dead. I am alone.</MyHusbandDied.stages.0.description>-->
+
+  <!--[Core] <MyWifeDied.stages.0.label>my wife {0} died</MyWifeDied.stages.0.label>-->
+  <!--[Core] <MyWifeDied.stages.0.description>My wife is dead. I am alone.</MyWifeDied.stages.0.description>-->
+
+  <!--[Core] <MyFianceDied.stages.0.label>my fiance {0} died</MyFianceDied.stages.0.label>-->
+  <!--[Core] <MyFianceDied.stages.0.description>My fiance died. Such a man... my future is gone.</MyFianceDied.stages.0.description>-->
+
+  <!--[Core] <MyFianceeDied.stages.0.label>my fiancée {0} died</MyFianceeDied.stages.0.label>-->
+  <!--[Core] <MyFianceeDied.stages.0.description>My fiancée died. Such a woman... my future is gone.</MyFianceeDied.stages.0.description>-->
+
+  <!--[Core] <MyLoverDied.stages.0.label>my lover {0} died</MyLoverDied.stages.0.label>-->
+  <!--[Core] <MyLoverDied.stages.0.description>My lover died. I am so alone.</MyLoverDied.stages.0.description>-->
+
+  <!--[Duplicated] <MyBrotherDied.stages.0.label>my brother {0} died</MyBrotherDied.stages.0.label>-->
+  <!--[Duplicated] <MyBrotherDied.stages.0.description>He was weak!</MyBrotherDied.stages.0.description>-->
+
+  <!--[Duplicated] <MySisterDied.stages.0.label>my sister {0} died</MySisterDied.stages.0.label>-->
+  <!--[Duplicated] <MySisterDied.stages.0.description>She was weak!</MySisterDied.stages.0.description>-->
+
+  <!--[Duplicated] <MyGrandchildDied.stages.0.label>my grandchild {0} died</MyGrandchildDied.stages.0.label>-->
+  <!--[Duplicated] <MyGrandchildDied.stages.0.description>Such weakness!</MyGrandchildDied.stages.0.description>-->
+
+  <!--[Duplicated] <MyFatherDied.stages.0.label>my father {0} died</MyFatherDied.stages.0.label>-->
+  <!--[Duplicated] <MyFatherDied.stages.0.description>He was weak! I'm stronger.</MyFatherDied.stages.0.description>-->
+
+  <!--[Duplicated] <MyMotherDied.stages.0.label>my mother {0} died</MyMotherDied.stages.0.label>-->
+  <!--[Duplicated] <MyMotherDied.stages.0.description>She was weak! I'm stronger.</MyMotherDied.stages.0.description>-->
+
+  <!--[Duplicated] <MyNieceDied.stages.0.label>my niece {0} died</MyNieceDied.stages.0.label>-->
+  <!--[Duplicated] <MyNieceDied.stages.0.description>Such weakness.</MyNieceDied.stages.0.description>-->
+
+  <!--[Duplicated] <MyNephewDied.stages.0.label>my nephew {0} died</MyNephewDied.stages.0.label>-->
+  <!--[Duplicated] <MyNephewDied.stages.0.description>Such weakness.</MyNephewDied.stages.0.description>-->
+
+  <!--[Core] <MyHalfSiblingDied.stages.0.label>my half-sibling {0} died</MyHalfSiblingDied.stages.0.label>-->
+  <!--[Core] <MyHalfSiblingDied.stages.0.description>My half-sibling died. My own flesh and blood...</MyHalfSiblingDied.stages.0.description>-->
+
+  <!--[Core] <MyAuntDied.stages.0.label>my aunt {0} died</MyAuntDied.stages.0.label>-->
+  <!--[Core] <MyAuntDied.stages.0.description>My aunt died.</MyAuntDied.stages.0.description>-->
+
+  <!--[Core] <MyUncleDied.stages.0.label>my uncle {0} died</MyUncleDied.stages.0.label>-->
+  <!--[Core] <MyUncleDied.stages.0.description>My uncle died.</MyUncleDied.stages.0.description>-->
+
+  <!--[Core] <MyGrandparentDied.stages.0.label>my grandparent {0} died</MyGrandparentDied.stages.0.label>-->
+  <!--[Core] <MyGrandparentDied.stages.0.description>My grandparent died.</MyGrandparentDied.stages.0.description>-->
+
+  <!--[Core] <MyCousinDied.stages.0.label>my cousin {0} died</MyCousinDied.stages.0.label>-->
+  <!--[Core] <MyCousinDied.stages.0.description>My cousin died. My own flesh and blood...</MyCousinDied.stages.0.description>-->
+
+  <!--[Core] <MyKinDied.stages.0.label>my kin {0} died</MyKinDied.stages.0.label>-->
+  <!--[Core] <MyKinDied.stages.0.description>My kin died.</MyKinDied.stages.0.description>-->
+
+
+  <!-- Married -->
+
+  <GorGotMarried.stages.0.label>свадьба с {0}</GorGotMarried.stages.0.label>
+  <GorGotMarried.stages.0.description>Давайте веселиться!</GorGotMarried.stages.0.description>
+
+  <GorAttendedWedding.stages.0.label>посещение свадьбы</GorAttendedWedding.stages.0.label>
+  <GorAttendedWedding.stages.0.description>Мне нужно больше выпивки!</GorAttendedWedding.stages.0.description>
+
+  <GorAttendedParty.stages.0.label>посещение вечеринки</GorAttendedParty.stages.0.label>
+  <GorAttendedParty.stages.0.description>Больше вина! Больше выпивки!</GorAttendedParty.stages.0.description>
+
+  <GorMyOrganHarvested.stages.0.label>вырезан орган</GorMyOrganHarvested.stages.0.label>
+  <GorMyOrganHarvested.stages.0.description>Слабаки!</GorMyOrganHarvested.stages.0.description>
+
+  <GorWasImprisoned.stages.0.label>заключение в тюрьме</GorWasImprisoned.stages.0.label>
+  <GorWasImprisoned.stages.0.description>Эти трусы пытаются удержать меня в клетке!</GorWasImprisoned.stages.0.description>
+
+  <GorNuzzled.stages.0.label>ласка</GorNuzzled.stages.0.label>
+  <GorNuzzled.stages.0.description>Это существо мне по душе.</GorNuzzled.stages.0.description>
+
+  <GorKnowBuriedInSarcophagus.stages.0.label>захоронение в саркофаге</GorKnowBuriedInSarcophagus.stages.0.label>
+  <GorKnowBuriedInSarcophagus.stages.0.description>Колониста похоронили в красивом саркофаге. За это нужно выпить.</GorKnowBuriedInSarcophagus.stages.0.description>
+
+  <GorWitnessedDeathAlly.stages.0.label>свидетель смерти колониста</GorWitnessedDeathAlly.stages.0.label>
+  <GorWitnessedDeathAlly.stages.0.description>Слабаки! Каждый из них!.</GorWitnessedDeathAlly.stages.0.description>
+
+  <GorWitnessedDeathFamily.stages.0.label>свидетель смерти члена семьи</GorWitnessedDeathFamily.stages.0.label>
+  <GorWitnessedDeathFamily.stages.0.description>Какая слабость! Эти слабаки разделять мою кровь!</GorWitnessedDeathFamily.stages.0.description>
+
+  <GorColonistBanished.stages.0.label>поселенец изгнан</GorColonistBanished.stages.0.label>
+  <GorColonistBanished.stages.0.description>Плевать.</GorColonistBanished.stages.0.description>
+
+  <GorColonistBanishedToDie.stages.0.label>поселенец изгнан и брошен умирать</GorColonistBanishedToDie.stages.0.label>
+  <GorColonistBanishedToDie.stages.0.description>По барабану.</GorColonistBanishedToDie.stages.0.description>
+
+  <GorPrisonerBanishedToDie.stages.0.label>пленник изгнан и брошен умирать</GorPrisonerBanishedToDie.stages.0.label>
+  <GorPrisonerBanishedToDie.stages.0.description>И что?</GorPrisonerBanishedToDie.stages.0.description>
+
+  <GorBondedAnimalBanished.stages.0.label>питомец, {0}, изгнан</GorBondedAnimalBanished.stages.0.label>
+  <GorBondedAnimalBanished.stages.0.description>Этот был моим!</GorBondedAnimalBanished.stages.0.description>
+
+
+  <!-- Rescue quest -->
+
+  <GorFailedToRescueRelative.stages.0.label>мы не спасли {0}</GorFailedToRescueRelative.stages.0.label>
+  <GorFailedToRescueRelative.stages.0.description>Какая утрата. Он бы мог быть полезен.</GorFailedToRescueRelative.stages.0.description>
+
+  <GorRescuedRelative.stages.0.label>мы спасли {0}</GorRescuedRelative.stages.0.label>
+  <GorRescuedRelative.stages.0.description>Надеюсь, от тебя будет толк.</GorRescuedRelative.stages.0.description>
+
+  <GorRescued.stages.0.label>спасение</GorRescued.stages.0.label>
+  <GorRescued.stages.0.description>Хмпф! Мне не нужна помощь.</GorRescued.stages.0.description>
+
+  <GorKindWordsMood.stages.0.label>поддержка</GorKindWordsMood.stages.0.label>
+  <GorKindWordsMood.stages.0.description>Хмпф! Ты что привязался?!</GorKindWordsMood.stages.0.description>
+
+  <GorSoldMyLovedOne.stages.0.label>продали любимого(ую)</GorSoldMyLovedOne.stages.0.label>
+  <GorSoldMyLovedOne.stages.0.labelSocial>продал(а) любимого человека</GorSoldMyLovedOne.stages.0.labelSocial>
+  <GorSoldMyLovedOne.stages.0.description>Они продали то, что было моё!</GorSoldMyLovedOne.stages.0.description>
+
+  <GorSoldMyBondedAnimal.stages.0.label>продали питомца</GorSoldMyBondedAnimal.stages.0.label>
+  <GorSoldMyBondedAnimal.stages.0.labelSocial>продал(а) любимого питомца</GorSoldMyBondedAnimal.stages.0.labelSocial>
+  <GorSoldMyBondedAnimal.stages.0.description>Они продали моего маленького питомца!</GorSoldMyBondedAnimal.stages.0.description>
+
+  <GorRebuffedMyRomanceAttemptMood.stages.0.label>{0} не хочет встречаться</GorRebuffedMyRomanceAttemptMood.stages.0.label>
+  <GorRebuffedMyRomanceAttemptMood.stages.0.description>Они смеют отказывать мне?!</GorRebuffedMyRomanceAttemptMood.stages.0.description>
+
+  <GorFailedRomanceAttemptOnMeLowOpinionMood.stages.0.label>пришлось отвергнуть {0}</GorFailedRomanceAttemptOnMeLowOpinionMood.stages.0.label>
+  <GorFailedRomanceAttemptOnMeLowOpinionMood.stages.0.description>Что делает этот слабак?!</GorFailedRomanceAttemptOnMeLowOpinionMood.stages.0.description>
+
+  <GorBrokeUpWithMe.stages.0.label>бросил(а) меня</GorBrokeUpWithMe.stages.0.label>
+
+  <!--[Core] <BrokeUpWithMeMood.stages.0.label>broken up with by {0}</BrokeUpWithMeMood.stages.0.label>-->
+  <!--[Core] <BrokeUpWithMeMood.stages.0.description>I was just dumped like a load of garbage.</BrokeUpWithMeMood.stages.0.description>-->
+
+  <GorCheatedOnMe.stages.0.label>изменил(а)</GorCheatedOnMe.stages.0.label>
+
+  <!--[Core] <CheatedOnMeMood.stages.0.label>cheated on by {0}</CheatedOnMeMood.stages.0.label>-->
+  <!--[Core] <CheatedOnMeMood.stages.0.description>How could someone cheat on me!</CheatedOnMeMood.stages.0.description>-->
+
+  <GorDivorcedMe.stages.0.label>развелся(ась) со мной</GorDivorcedMe.stages.0.label>
+
+  <!--[Core] <DivorcedMeMood.stages.0.label>divorced by {0}</DivorcedMeMood.stages.0.label>-->
+  <!--[Core] <DivorcedMeMood.stages.0.description>We made a commitment, and they just tore it apart.</DivorcedMeMood.stages.0.description>-->
+
+  <GorRejectedMyProposal.stages.0.label>отверг(ла) моё предложение</GorRejectedMyProposal.stages.0.label>
+
+  <!--[Duplicated] <RejectedMyProposalMood.stages.0.label>my proposal was rejected by {0}</RejectedMyProposalMood.stages.0.label>-->
+  <!--[Duplicated] <RejectedMyProposalMood.stages.0.description>You don't reject me! Weakling!</RejectedMyProposalMood.stages.0.description>-->
+
+  <GorIRejectedTheirProposal.stages.0.label>Что? Ты смеешь меня так оскорблять, хлюпик?!</GorIRejectedTheirProposal.stages.0.label>
+
+  <GorGotSomeLovin.stages.0.label>близость</GorGotSomeLovin.stages.0.label>
+  <GorGotSomeLovin.stages.0.description>Да, сделай мне приятное!</GorGotSomeLovin.stages.0.description>
+
+  <GorOpinionOfMyLover.stages.0.label>мнение о {1} ({0})</GorOpinionOfMyLover.stages.0.label>
+  <GorOpinionOfMyLover.stages.0.description>Это моя половинка.</GorOpinionOfMyLover.stages.0.description>
+
+  <GorColonistLeftUnburied.stages.0.label>поселенец не похоронен</GorColonistLeftUnburied.stages.0.label>
+  <GorColonistLeftUnburied.stages.0.description>Избавьтесь от этого мусора.</GorColonistLeftUnburied.stages.0.description>
+
+  <GorBondedAnimalMaster.stages.0.label>хозяин {0}</GorBondedAnimalMaster.stages.0.label>
+  <GorBondedAnimalMaster.stages.0.description>Мой питомец успокаивает меня.</GorBondedAnimalMaster.stages.0.description>
+  <GorBondedAnimalMaster.stages.1.label>хозяин {0}</GorBondedAnimalMaster.stages.1.label>
+  <GorBondedAnimalMaster.stages.1.description>Мой питомец успокаивает меня.</GorBondedAnimalMaster.stages.1.description>
+
+  <GorNotBondedAnimalMaster.stages.0.label>не хозяин {0}</GorNotBondedAnimalMaster.stages.0.label>
+  <GorNotBondedAnimalMaster.stages.0.description>У кого-то мой питомец!</GorNotBondedAnimalMaster.stages.0.description>
+  <GorNotBondedAnimalMaster.stages.1.label>не хозяин {0}</GorNotBondedAnimalMaster.stages.1.label>
+  <GorNotBondedAnimalMaster.stages.1.description>У кого-то мой питомец!</GorNotBondedAnimalMaster.stages.1.description>
+
+  <GorWantToSleepWithSpouseOrLover.stages.0.label>хочу спать вместе с {0}</GorWantToSleepWithSpouseOrLover.stages.0.label>
+  <GorWantToSleepWithSpouseOrLover.stages.0.description>Ты должен(а) быть со мной.</GorWantToSleepWithSpouseOrLover.stages.0.description>
+
+  <GorInsultedMood.stages.0.label>оскорбление</GorInsultedMood.stages.0.label>
+  <GorInsultedMood.stages.0.description>Этот хлюпик посмел меня оскорбить?</GorInsultedMood.stages.0.description>
+
+  <GorAteLavishMeal.stages.0.label>съедено шикарное блюдо</GorAteLavishMeal.stages.0.label>
+  <GorAteLavishMeal.stages.0.description>Это было вкусно. Хочу ещё такого же.</GorAteLavishMeal.stages.0.description>
+
+  <GorAteFineMeal.stages.0.label>съедено хорошее блюдо</GorAteFineMeal.stages.0.label>
+  <GorAteFineMeal.stages.0.description>Мне нравится вкус этой еды.</GorAteFineMeal.stages.0.description>
+
+  <GorAteAwfulMeal.stages.0.label>съедено отвратительное блюдо</GorAteAwfulMeal.stages.0.label>
+  <GorAteAwfulMeal.stages.0.description>Еда есть еда.</GorAteAwfulMeal.stages.0.description>
+
+  <GorAteRawFood.stages.0.label>съедена сырая пища</GorAteRawFood.stages.0.label>
+  <GorAteRawFood.stages.0.description>Еда есть еда.</GorAteRawFood.stages.0.description>
+
+  <GorAteKibble.stages.0.label>съеден комбикорм</GorAteKibble.stages.0.label>
+  <GorAteKibble.stages.0.description>Еда есть еда.</GorAteKibble.stages.0.description>
+
+  <GorAteCorpse.stages.0.label>съедена туша</GorAteCorpse.stages.0.label>
+  <GorAteCorpse.stages.0.description>Сырое мясо прекрасно.</GorAteCorpse.stages.0.description>
+
+
+  <!-- Special nature thoughts -->
+
+  <GorAteHumanlikeMeatDirect.stages.0.label>съедена сырая человечина</GorAteHumanlikeMeatDirect.stages.0.label>
+  <GorAteHumanlikeMeatDirect.stages.0.description>Сырое человеское мясо. Отлично!</GorAteHumanlikeMeatDirect.stages.0.description>
+
+  <GorAteHumanlikeMeatDirectCannibal.stages.0.label>съедена сырая человечина</GorAteHumanlikeMeatDirectCannibal.stages.0.label>
+  <GorAteHumanlikeMeatDirectCannibal.stages.0.description>Сырое человеское мясо. Отлично!</GorAteHumanlikeMeatDirectCannibal.stages.0.description>
+
+  <GorAteHumanlikeMeatAsIngredient.stages.0.label>съедено блюдо с человечиной</GorAteHumanlikeMeatAsIngredient.stages.0.label>
+  <GorAteHumanlikeMeatAsIngredient.stages.0.description>Мне нравится это.</GorAteHumanlikeMeatAsIngredient.stages.0.description>
+
+  <GorAteHumanlikeMeatAsIngredientCannibal.stages.0.label>съедено блюдо с человечиной</GorAteHumanlikeMeatAsIngredientCannibal.stages.0.label>
+  <GorAteHumanlikeMeatAsIngredientCannibal.stages.0.description>Мне нравится это.</GorAteHumanlikeMeatAsIngredientCannibal.stages.0.description>
+
+  <GorAteInsectMeatDirect.stages.0.label>съедено мясо насекомого</GorAteInsectMeatDirect.stages.0.label>
+  <GorAteInsectMeatDirect.stages.0.description>Сойдёт.</GorAteInsectMeatDirect.stages.0.description>
+
+  <GorAteInsectMeatAsIngredient.stages.0.label>съедено мясо насекомого</GorAteInsectMeatAsIngredient.stages.0.label>
+  <GorAteInsectMeatAsIngredient.stages.0.description>Сойдёт.</GorAteInsectMeatAsIngredient.stages.0.description>
+
+
+  <!-- Rotten state thoughts -->
+
+  <GorAteRottenFood.stages.0.label>съедена гнилая пища</GorAteRottenFood.stages.0.label>
+  <GorAteRottenFood.stages.0.description>Сойдёт.</GorAteRottenFood.stages.0.description>
+
+
+</LanguageData>

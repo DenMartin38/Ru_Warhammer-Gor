@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- hidden bloodlust/pain stopper -->
+
+  <InstallBeastmenBloodlust.label>Установить жажду крови</InstallBeastmenBloodlust.label>
+  <InstallBeastmenBloodlust.description>Установить жажду крови.</InstallBeastmenBloodlust.description>
+  <InstallBeastmenBloodlust.jobString>Устанавливает жажду крови.</InstallBeastmenBloodlust.jobString>
+
+
+  <!-- stand in for bestigor horns -->
+
+  <InstallBestigorHornLeft.label>Установить левый рог</InstallBestigorHornLeft.label>
+  <InstallBestigorHornLeft.description>Установить рог.</InstallBestigorHornLeft.description>
+  <InstallBestigorHornLeft.jobString>Устанавливает рог.</InstallBestigorHornLeft.jobString>
+
+  <InstallBestigorHornRight.label>Установить правый рог</InstallBestigorHornRight.label>
+  <InstallBestigorHornRight.description>Установить рог.</InstallBestigorHornRight.description>
+  <InstallBestigorHornRight.jobString>Устанавливает рог.</InstallBestigorHornRight.jobString>
+
+
+  <!-- stand in for gorebull horns -->
+
+  <InstallGorebullHornLeft.label>Установить левый рог</InstallGorebullHornLeft.label>
+  <InstallGorebullHornLeft.description>Установить рог.</InstallGorebullHornLeft.description>
+  <InstallGorebullHornLeft.jobString>Устанавливает рог.</InstallGorebullHornLeft.jobString>
+
+  <InstallGorebullHornRight.label>Установить правый рог</InstallGorebullHornRight.label>
+  <InstallGorebullHornRight.description>Установить рог.</InstallGorebullHornRight.description>
+  <InstallGorebullHornRight.jobString>Устанавливает рог.</InstallGorebullHornRight.jobString>
+
+  <InstallGorPegHoof.label>Установить деревянное копыто</InstallGorPegHoof.label>
+  <InstallGorPegHoof.description>Установить деревянное копыто.</InstallGorPegHoof.description>
+  <InstallGorPegHoof.jobString>Устанавливает деревянное копыто.</InstallGorPegHoof.jobString>
+
+  <InstallGorSteelHoof.label>Установить стальное копыто</InstallGorSteelHoof.label>
+  <InstallGorSteelHoof.description>Установить стальное копыто.</InstallGorSteelHoof.description>
+  <InstallGorSteelHoof.jobString>Установливает стальное копыто.</InstallGorSteelHoof.jobString>
+
+
+</LanguageData>

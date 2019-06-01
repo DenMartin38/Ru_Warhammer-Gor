@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Adulthood -->
+
+  <Bestigor.title>big horned</Bestigor.title>
+  <Bestigor.titleShort>horned</Bestigor.titleShort>
+  <Bestigor.baseDescription>[PAWN_nameDef] horns show that [PAWN_nameDef] belongs to the stronger ones. Larger horns are carried with pride, proof that you are blessed with strength and stand above the lesser kind.</Bestigor.baseDescription>
+
+  <GorTurned.title>mutant</GorTurned.title>
+  <GorTurned.titleShort>turned</GorTurned.titleShort>
+  <GorTurned.baseDescription>[PAWN_nameDef] was turned by chaos.</GorTurned.baseDescription>
+
+  <GorTurnedRich.title>mutant</GorTurnedRich.title>
+  <GorTurnedRich.titleShort>turned</GorTurnedRich.titleShort>
+  <GorTurnedRich.baseDescription>[PAWN_nameDef] was turned by chaos.</GorTurnedRich.baseDescription>
+
+  <GorRaider.title>raider</GorRaider.title>
+  <GorRaider.titleShort>raider</GorRaider.titleShort>
+  <GorRaider.baseDescription>[PAWN_nameDef] is cut from the same cloth as the rest of the herd.</GorRaider.baseDescription>
+
+  <GorThrall.title>thrall</GorThrall.title>
+  <GorThrall.titleShort>thrall</GorThrall.titleShort>
+  <GorThrall.baseDescription>[PAWN_nameDef] performs menial task for the herd.</GorThrall.baseDescription>
+
+  <GorShaman.title>shaman</GorShaman.title>
+  <GorShaman.titleShort>shaman</GorShaman.titleShort>
+  <GorShaman.baseDescription>[PAWN_nameDef] took up the reins of shaman for the herd..</GorShaman.baseDescription>
+
+  <GorGrunt.title>grunt</GorGrunt.title>
+  <GorGrunt.titleShort>grunt</GorGrunt.titleShort>
+  <GorGrunt.baseDescription>[PAWN_nameDef] is average rough and vile Gor.</GorGrunt.baseDescription>
+
+
+  <!-- Childhood -->
+
+  <GorWild.title>wildling</GorWild.title>
+  <GorWild.titleShort>wild</GorWild.titleShort>
+  <GorWild.baseDescription>[PAWN_nameDef] was born as a gor to a human family. Left in the wilds like so many other mutant children. Picked up by a nearby gor herd that heard the mutant child calling.</GorWild.baseDescription>
+
+  <!--[Duplicated] <GorChild.title>born in herd</GorChild.title>-->
+  <!--[Duplicated] <GorChild.titleShort>herd</GorChild.titleShort>-->
+  <!--[Duplicated] <GorChild.baseDescription>[PAWN_nameDef] was born as a gor. The only life [PAWN_nameDef] know of is the herd.</GorChild.baseDescription>-->
+
+  <GorShamanChild.title>shaman</GorShamanChild.title>
+  <GorShamanChild.titleShort>student</GorShamanChild.titleShort>
+  <GorShamanChild.baseDescription>[PAWN_nameDef] "studied" under one of the bray-shamans of the herd.</GorShamanChild.baseDescription>
+
+  <GorStrange.title>strange gor</GorStrange.title>
+  <GorStrange.titleShort>strange</GorStrange.titleShort>
+  <GorStrange.baseDescription>[PAWN_nameDef] was born as a mutant. Abandoned like so many other mutants [PAWN_nameDef] was left to fend for itself in a passing gor herd. [PAWN_nameDef] was a stranger than the rest of the mutant children, a mind touched by chaos throwing [PAWN_nameDef] into mania from time to time.</GorStrange.baseDescription>
+
+  <GorChild.title>farm child</GorChild.title>
+  <GorChild.titleShort>farmer</GorChild.titleShort>
+  <GorChild.baseDescription>[PAWN_nameDef] wasn't born as a mutant. [PAWN_nameDef] lived life as a farmers child.  [PAWN_nameDef] was later in life corrupted by chaos, joining a passing gor herd.</GorChild.baseDescription>
+
+  <GorChildRich.title>rich child</GorChildRich.title>
+  <GorChildRich.titleShort>rich</GorChildRich.titleShort>
+  <GorChildRich.baseDescription>[PAWN_nameDef] wasn't born as a mutant. [PAWN_nameDef] was born in a rich family. Spending childhood studying the arts of a aristocrat. [PAWN_nameDef] was later in life corrupted by chaos, joining a passing gor herd.</GorChildRich.baseDescription>
+
+
+</LanguageData>

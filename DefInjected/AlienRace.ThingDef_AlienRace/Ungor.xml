@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ungor -->
+
+  <Alien_Ungor.label>ангор</Alien_Ungor.label>
+  <Alien_Ungor.description>Низший вид зверолюдей. Они либо сразу рождаются мутантами, либо позже становятся ими. Изгнанные из человеческого общества, они присоединяются к стаду гор как низшая каста.</Alien_Ungor.description>
+  <Alien_Ungor.tools.0.label>левый кулак</Alien_Ungor.tools.0.label>
+  <Alien_Ungor.tools.1.label>правый кулак</Alien_Ungor.tools.1.label>
+  <Alien_Ungor.tools.2.label>зубы</Alien_Ungor.tools.2.label>
+
+
+</LanguageData>

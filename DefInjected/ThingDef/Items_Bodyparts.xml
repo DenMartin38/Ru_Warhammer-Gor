@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BestigorHorn.label>рог бестигора</BestigorHorn.label>
+  <BestigorHorn.description>Рог бестигора.</BestigorHorn.description>
+
+  <GorebullHorn.label>рог кровавого быка</GorebullHorn.label>
+  <GorebullHorn.description>Рог кровавого быка.</GorebullHorn.description>
+
+  <GorSteelHoof.label>стальное копыто</GorSteelHoof.label>
+  <GorSteelHoof.description>Копыто, сделанное из стали.</GorSteelHoof.description>
+
+
+</LanguageData>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MeleeWeapon_BigAxe.label>топор бестигора</MeleeWeapon_BigAxe.label>
+  <MeleeWeapon_BigAxe.description>Большой топор, способный наносить смертельные удары.</MeleeWeapon_BigAxe.description>
+  <MeleeWeapon_BigAxe.tools.0.label>лезвие</MeleeWeapon_BigAxe.tools.0.label>
+  <MeleeWeapon_BigAxe.tools.1.label>рукоять</MeleeWeapon_BigAxe.tools.1.label>
+
+  <MeleeWeapon_CrudeSword.label>грубый меч</MeleeWeapon_CrudeSword.label>
+  <MeleeWeapon_CrudeSword.description>Грубый меч.</MeleeWeapon_CrudeSword.description>
+  <MeleeWeapon_CrudeSword.tools.0.label>лезвие</MeleeWeapon_CrudeSword.tools.0.label>
+  <MeleeWeapon_CrudeSword.tools.1.label>рукоять</MeleeWeapon_CrudeSword.tools.1.label>
+
+  <MeleeWeapon_CrudeAxe.label>грубый топор</MeleeWeapon_CrudeAxe.label>
+  <MeleeWeapon_CrudeAxe.description>Грубый топор.</MeleeWeapon_CrudeAxe.description>
+  <MeleeWeapon_CrudeAxe.tools.0.label>лезвие</MeleeWeapon_CrudeAxe.tools.0.label>
+  <MeleeWeapon_CrudeAxe.tools.1.label>рукоять</MeleeWeapon_CrudeAxe.tools.1.label>
+
+  <MeleeWeapon_CrudePick.label>грубый клевец</MeleeWeapon_CrudePick.label>
+  <MeleeWeapon_CrudePick.description>Грубый клевец.</MeleeWeapon_CrudePick.description>
+  <MeleeWeapon_CrudePick.tools.0.label>остриё</MeleeWeapon_CrudePick.tools.0.label>
+  <MeleeWeapon_CrudePick.tools.1.label>рукоять</MeleeWeapon_CrudePick.tools.1.label>
+
+  <MeleeWeapon_CrudeCudgel.label>грубая дубина</MeleeWeapon_CrudeCudgel.label>
+  <MeleeWeapon_CrudeCudgel.description>Грубая дубина с шипами.</MeleeWeapon_CrudeCudgel.description>
+  <MeleeWeapon_CrudeCudgel.tools.0.label>остриё</MeleeWeapon_CrudeCudgel.tools.0.label>
+  <MeleeWeapon_CrudeCudgel.tools.1.label>рукоять</MeleeWeapon_CrudeCudgel.tools.1.label>
+
+  <MeleeWeapon_MassiveClub.label>огромная палица</MeleeWeapon_MassiveClub.label>
+  <MeleeWeapon_MassiveClub.description>Вы должны иметь крепкое телосложение, чтобы справиться с этим оружием.</MeleeWeapon_MassiveClub.description>
+  <MeleeWeapon_MassiveClub.tools.0.label>остриё</MeleeWeapon_MassiveClub.tools.0.label>
+  <MeleeWeapon_MassiveClub.tools.1.label>рукоять</MeleeWeapon_MassiveClub.tools.1.label>
+
+  <MeleeWeapon_MassiveAxe.label>огромный топор</MeleeWeapon_MassiveAxe.label>
+  <MeleeWeapon_MassiveAxe.description>Вы должны иметь крепкое телосложение, чтобы справиться с этим оружием.</MeleeWeapon_MassiveAxe.description>
+  <MeleeWeapon_MassiveAxe.tools.0.label>лезвие</MeleeWeapon_MassiveAxe.tools.0.label>
+  <MeleeWeapon_MassiveAxe.tools.1.label>рукоять</MeleeWeapon_MassiveAxe.tools.1.label>
+
+
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GorStone.label>рунный камень</GorStone.label>
+  <GorStone.description>Маленький рунный камень.</GorStone.description>
+  <GorStone_Blueprint_Install.label>рунный камень (чертёж)</GorStone_Blueprint_Install.label>
+
+  <GorStoneM.label>большой рунный камень</GorStoneM.label>
+  <GorStoneM.description>Большой рунный камень.</GorStoneM.description>
+  <GorStoneM_Blueprint_Install.label>большой рунный камень (чертёж)</GorStoneM_Blueprint_Install.label>
+
+
+</LanguageData>

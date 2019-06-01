@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ClovenCygor.label>сайгор</ClovenCygor.label>
+  <ClovenCygor.description>Сайгоры - дальние родственники Минотавров, но, поскольку они родом из самых испорченных областей Старого Света, они сильно отошли от своих родственников. Это огромные, ужасно уродливые великаны, похожие на Минотавров, но каждый из них обладает лишь одним глазом, едва способным воспринимать мир смертных. Проклятые зрением, которое может видеть только магические ветра, все Сайгоры совершенно безумны, на них постоянно охотятся призрачные фигуры, населяющие их мир.</ClovenCygor.description>
+  <ClovenCygor.tools.0.label>левый кулак</ClovenCygor.tools.0.label>
+  <ClovenCygor.tools.1.label>правый кулак</ClovenCygor.tools.1.label>
+  <ClovenCygor.tools.2.label>зубы</ClovenCygor.tools.2.label>
+  <ClovenCygor.tools.3.label>правый рог</ClovenCygor.tools.3.label>
+  <ClovenCygor.tools.4.label>левый рог</ClovenCygor.tools.4.label>
+  <ClovenCygor_Leather.label>шкура сайгора</ClovenCygor_Leather.label>
+  <ClovenCygor_Leather.description>шкура сайгора</ClovenCygor_Leather.description>
+  <ClovenCygor_Leather.stuffProps.stuffAdjective>шкура сайгора</ClovenCygor_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Alien_Gor -->
+  <ClovenCygor_Corpse.label>труп сайгора</ClovenCygor_Corpse.label>
+  <ClovenCygor_Corpse.description>труп сайгора</ClovenCygor_Corpse.description>
+
+
+</LanguageData>

@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Leader -->
+
+  <Beastlord.label>звериный владыка</Beastlord.label>
+  <Beastlord.labelPlural>звериные владыки</Beastlord.labelPlural>
+  <Beastlord.labelMale>звериный владыка</Beastlord.labelMale>
+  <Beastlord.labelMalePlural>звериные владыки</Beastlord.labelMalePlural>
+  <Beastlord.labelFemale>звериный владыка</Beastlord.labelFemale>
+  <Beastlord.labelFemalePlural>звериные владыки</Beastlord.labelFemalePlural>
+
+
+  <!-- Generals -->
+
+  <Wargor.label>боерог</Wargor.label>
+  <Wargor.labelPlural>боероги</Wargor.labelPlural>
+  <Wargor.labelMale>боерог</Wargor.labelMale>
+  <Wargor.labelMalePlural>боероги</Wargor.labelMalePlural>
+  <Wargor.labelFemale>боерог</Wargor.labelFemale>
+  <Wargor.labelFemalePlural>боероги</Wargor.labelFemalePlural>
+
+  <Bestigor.label>бестигор</Bestigor.label>
+  <Bestigor.labelPlural>бестигоры</Bestigor.labelPlural>
+  <Bestigor.labelMale>бестигор</Bestigor.labelMale>
+  <Bestigor.labelMalePlural>бестигоры</Bestigor.labelMalePlural>
+  <Bestigor.labelFemale>бестигор</Bestigor.labelFemale>
+  <Bestigor.labelFemalePlural>бестигоры</Bestigor.labelFemalePlural>
+
+
+  <!-- Soldiers -->
+
+  <Tzaangor.label>тзаангор</Tzaangor.label>
+  <Tzaangor.labelPlural>тзаангоры</Tzaangor.labelPlural>
+  <Tzaangor.labelMale>тзаангор</Tzaangor.labelMale>
+  <Tzaangor.labelMalePlural>тзаангоры</Tzaangor.labelMalePlural>
+  <Tzaangor.labelFemale>тзаангор</Tzaangor.labelFemale>
+  <Tzaangor.labelFemalePlural>тзаангоры</Tzaangor.labelFemalePlural>
+
+  <Ravager.label>разрушитель</Ravager.label>
+  <Ravager.labelPlural>разрушители</Ravager.labelPlural>
+  <Ravager.labelMale>разрушитель</Ravager.labelMale>
+  <Ravager.labelMalePlural>разрушители</Ravager.labelMalePlural>
+  <Ravager.labelFemale>разрушитель</Ravager.labelFemale>
+  <Ravager.labelFemalePlural>разрушители</Ravager.labelFemalePlural>
+
+  <Raider.label>рейдер</Raider.label>
+  <Raider.labelPlural>рейдеры</Raider.labelPlural>
+  <Raider.labelMale>рейдер</Raider.labelMale>
+  <Raider.labelMalePlural>рейдеры</Raider.labelMalePlural>
+  <Raider.labelFemale>рейдер</Raider.labelFemale>
+  <Raider.labelFemalePlural>рейдеры</Raider.labelFemalePlural>
+
+  <GorExile.label>изгнанник</GorExile.label>
+  <GorExile.labelPlural>изгнанники</GorExile.labelPlural>
+  <GorExile.labelMale>изгнанник</GorExile.labelMale>
+  <GorExile.labelMalePlural>изгнанники</GorExile.labelMalePlural>
+  <GorExile.labelFemale>изгнанник</GorExile.labelFemale>
+  <GorExile.labelFemalePlural>изгнанники</GorExile.labelFemalePlural>
+
+  <UngorExile.label>изгнанник</UngorExile.label>
+  <UngorExile.labelPlural>изгнанники</UngorExile.labelPlural>
+  <UngorExile.labelMale>изгнанник</UngorExile.labelMale>
+  <UngorExile.labelMalePlural>изгнанники</UngorExile.labelMalePlural>
+  <UngorExile.labelFemale>изгнанник</UngorExile.labelFemale>
+  <UngorExile.labelFemalePlural>изгнанники</UngorExile.labelFemalePlural>
+
+
+</LanguageData>

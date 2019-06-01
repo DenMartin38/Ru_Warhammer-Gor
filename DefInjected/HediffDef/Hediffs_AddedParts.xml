@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Bestigor -->
+
+  <BestigorHornLeft.label>левый рог бестигора</BestigorHornLeft.label>
+  <BestigorHornLeft.labelNoun>левый большой рог</BestigorHornLeft.labelNoun>
+
+  <BestigorHornRight.label>правый рог бестигора</BestigorHornRight.label>
+  <BestigorHornRight.labelNoun>правый большой рог</BestigorHornRight.labelNoun>
+
+
+  <!-- Gorebull -->
+
+  <GorebullHornLeft.label>левый рог кровавого быка</GorebullHornLeft.label>
+  <GorebullHornLeft.labelNoun>левый большой рог</GorebullHornLeft.labelNoun>
+
+  <GorebullHornRight.label>правый рог кровавого быка</GorebullHornRight.label>
+  <GorebullHornRight.labelNoun>правый большой рог</GorebullHornRight.labelNoun>
+
+  <GorPegHoof.label>деревянное копыто</GorPegHoof.label>
+  <GorPegHoof.labelNoun>деревянное копыто</GorPegHoof.labelNoun>
+
+  <GorSteelHoof.label>стальное копыто</GorSteelHoof.label>
+  <GorSteelHoof.labelNoun>стальное копыто</GorSteelHoof.labelNoun>
+
+
+</LanguageData>

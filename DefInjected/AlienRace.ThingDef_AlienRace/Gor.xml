@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Gor -->
+
+  <Alien_Gor.label>гор</Alien_Gor.label>
+  <Alien_Gor.description>Распространенный вид Зверолюдей. Они занимают основную часть стада зверолюдей, странствующих по землям. Горы склонны к порочности и кровожадности, но бывает, что звероженщины имеют мягкий характер.</Alien_Gor.description>
+  <Alien_Gor.tools.0.label>левый кулак</Alien_Gor.tools.0.label>
+  <Alien_Gor.tools.1.label>правый кулак</Alien_Gor.tools.1.label>
+  <Alien_Gor.tools.2.label>зубы</Alien_Gor.tools.2.label>
+
+
+</LanguageData>

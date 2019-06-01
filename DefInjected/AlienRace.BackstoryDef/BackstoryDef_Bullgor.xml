@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Adulthood -->
+
+  <Gorebull.title>big horned</Gorebull.title>
+  <Gorebull.titleShort>horned</Gorebull.titleShort>
+  <Gorebull.baseDescription>[PAWN_nameDef] horns show that [PAWN_nameDef] belongs to the stronger ones. Larger horns are carried with pride, proof that you are blessed with strength and stand above the lesser kind.</Gorebull.baseDescription>
+
+  <BullgorRaider.title>raider</BullgorRaider.title>
+  <BullgorRaider.titleShort>raider</BullgorRaider.titleShort>
+  <BullgorRaider.baseDescription>[PAWN_nameDef] lives for violence. The only thing that brins joy to [PAWN_nameDef] is the bloodshed of humanity.</BullgorRaider.baseDescription>
+
+  <BullgorGrunt.title>grunt</BullgorGrunt.title>
+  <BullgorGrunt.titleShort>grunt</BullgorGrunt.titleShort>
+  <BullgorGrunt.baseDescription>[PAWN_nameDef] is average rough and vile Gor.</BullgorGrunt.baseDescription>
+
+
+  <!-- Childhood -->
+
+  <BullgorWild.title>wildling</BullgorWild.title>
+  <BullgorWild.titleShort>wild</BullgorWild.titleShort>
+  <BullgorWild.baseDescription>[PAWN_nameDef] was born as a bullgor to a human family. Left in the wilds like so many other mutant children. Picked up by a nearby gor herd that heard the mutant child calling.</BullgorWild.baseDescription>
+
+  <BullgorChild.title>herd born</BullgorChild.title>
+  <BullgorChild.titleShort>herd</BullgorChild.titleShort>
+  <BullgorChild.baseDescription>[PAWN_nameDef] was born as a bullgor. The only life [PAWN_nameDef] know of is the herd.</BullgorChild.baseDescription>
+
+  <BullgorStrange.title>strange bullgor</BullgorStrange.title>
+  <BullgorStrange.titleShort>strange</BullgorStrange.titleShort>
+  <BullgorStrange.baseDescription>[PAWN_nameDef] was born as a mutant. Abandoned like so many other mutants [PAWN_nameDef] was left to fend for itself in a passing gor herd. [PAWN_nameDef] was a stranger than the rest of the mutant children, a mind touched by chaos throwing [PAWN_nameDef] into mania from time to time.</BullgorStrange.baseDescription>
+
+
+</LanguageData>

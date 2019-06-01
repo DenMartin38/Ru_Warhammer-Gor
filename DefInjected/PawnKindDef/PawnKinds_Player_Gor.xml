@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Player -->
+
+  <GorFaction.label>гор</GorFaction.label>
+  <GorFaction.labelPlural>горы</GorFaction.labelPlural>
+  <GorFaction.labelMale>гор</GorFaction.labelMale>
+  <GorFaction.labelMalePlural>горы</GorFaction.labelMalePlural>
+  <GorFaction.labelFemale>гор</GorFaction.labelFemale>
+  <GorFaction.labelFemalePlural>горы</GorFaction.labelFemalePlural>
+
+  <UngorFaction.label>Ангор</UngorFaction.label>
+  <UngorFaction.labelPlural>Ангоры</UngorFaction.labelPlural>
+  <UngorFaction.labelMale>Ангор</UngorFaction.labelMale>
+  <UngorFaction.labelMalePlural>Ангоры</UngorFaction.labelMalePlural>
+  <UngorFaction.labelFemale>Ангор</UngorFaction.labelFemale>
+  <UngorFaction.labelFemalePlural>Ангоры</UngorFaction.labelFemalePlural>
+
+  <GorColony.label>гор</GorColony.label>
+  <GorColony.labelPlural>горы</GorColony.labelPlural>
+  <GorColony.labelMale>гор</GorColony.labelMale>
+  <GorColony.labelMalePlural>горы</GorColony.labelMalePlural>
+  <GorColony.labelFemale>гор</GorColony.labelFemale>
+  <GorColony.labelFemalePlural>горы</GorColony.labelFemalePlural>
+
+  <GorTribe.label>гор</GorTribe.label>
+  <GorTribe.labelPlural>горы</GorTribe.labelPlural>
+  <GorTribe.labelMale>гор</GorTribe.labelMale>
+  <GorTribe.labelMalePlural>горы</GorTribe.labelMalePlural>
+  <GorTribe.labelFemale>гор</GorTribe.labelFemale>
+  <GorTribe.labelFemalePlural>горы</GorTribe.labelFemalePlural>
+
+  <UngorColony.label>Ангор</UngorColony.label>
+  <UngorColony.labelPlural>Ангоры</UngorColony.labelPlural>
+  <UngorColony.labelMale>Ангор</UngorColony.labelMale>
+  <UngorColony.labelMalePlural>Ангоры</UngorColony.labelMalePlural>
+  <UngorColony.labelFemale>Ангор</UngorColony.labelFemale>
+  <UngorColony.labelFemalePlural>Ангоры</UngorColony.labelFemalePlural>
+
+  <UngorTribe.label>ангор</UngorTribe.label>
+  <UngorTribe.labelPlural>ангоры</UngorTribe.labelPlural>
+  <UngorTribe.labelMale>ангор</UngorTribe.labelMale>
+  <UngorTribe.labelMalePlural>ангоры</UngorTribe.labelMalePlural>
+  <UngorTribe.labelFemale>ангор</UngorTribe.labelFemale>
+  <UngorTribe.labelFemalePlural>ангоры</UngorTribe.labelFemalePlural>
+
+
+</LanguageData>

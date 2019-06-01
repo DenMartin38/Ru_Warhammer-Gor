@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Apparel_Loincloth.label>набедренная повязка</Apparel_Loincloth.label>
+  <Apparel_Loincloth.description>Минимальная защита.</Apparel_Loincloth.description>
+
+  <Apparel_FurMantle.label>меховая мантия</Apparel_FurMantle.label>
+  <Apparel_FurMantle.description>Примитивная мантия, сшитая из обычного меха.</Apparel_FurMantle.description>
+
+  <Apparel_Chainmail.label>кольчуга</Apparel_Chainmail.label>
+  <Apparel_Chainmail.description>Кольчужная броня. Хорошо защищает от ударов, но не от холода.</Apparel_Chainmail.description>
+
+  <Apparel_Chainhelm.label>кольчужный шлем</Apparel_Chainhelm.label>
+  <Apparel_Chainhelm.description>Большой шлем покрытый цепями.</Apparel_Chainhelm.description>
+
+  <Apparel_BullgorPlate.label>доспех булгора</Apparel_BullgorPlate.label>
+  <Apparel_BullgorPlate.description>Огромный латный доспех сделан в соответствии с размерами его будущего хозяина.</Apparel_BullgorPlate.description>
+
+  <Apparel_ShamanRobe.label>роба шамана</Apparel_ShamanRobe.label>
+  <Apparel_ShamanRobe.description>Шаманская роба, обычно носимая брэй-шаманами. Она защищает от урона и имеет неплохую изоляцию.</Apparel_ShamanRobe.description>
+
+  <Apparel_ShamanHood.label>капюшон шамана</Apparel_ShamanHood.label>
+  <Apparel_ShamanHood.description>Шаманский капюшон, обычно носимый брэй-шаманами. Он защищает от урона и имеет неплохую изоляцию.</Apparel_ShamanHood.description>
+
+
+</LanguageData>

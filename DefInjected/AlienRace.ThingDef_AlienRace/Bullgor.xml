@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Gor -->
+
+  <Alien_Bullgor.label>булгор</Alien_Bullgor.label>
+  <Alien_Bullgor.description>Минотавры, так же известные как Булгоры, массивный вид расы Зверолюдей с бычьей головой. Имея огромное тело, они ограничены в выборе одежды.</Alien_Bullgor.description>
+  <Alien_Bullgor.tools.0.label>левый кулак</Alien_Bullgor.tools.0.label>
+  <Alien_Bullgor.tools.1.label>правый кулак</Alien_Bullgor.tools.1.label>
+  <Alien_Bullgor.tools.2.label>зубы</Alien_Bullgor.tools.2.label>
+  <Alien_Bullgor.tools.3.label>правый рог</Alien_Bullgor.tools.3.label>
+  <Alien_Bullgor.tools.4.label>левый рог</Alien_Bullgor.tools.4.label>
+
+
+</LanguageData>

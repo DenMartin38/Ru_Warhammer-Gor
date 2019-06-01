@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BeastmenHarpy.label>гарпия</BeastmenHarpy.label>
+  <BeastmenHarpy.description>Гарпии - падальщики и беспринципные дикие существа, которые охотятся на больных, утомленных, измученных битвой и умирающих. </BeastmenHarpy.description>
+  <BeastmenHarpy.tools.0.label>левый коготь</BeastmenHarpy.tools.0.label>
+  <BeastmenHarpy.tools.1.label>правый коготь</BeastmenHarpy.tools.1.label>
+  <BeastmenHarpy.tools.2.label>зубы</BeastmenHarpy.tools.2.label>
+  <BeastmenHarpy_Leather.label>шкура гарпии</BeastmenHarpy_Leather.label>
+  <BeastmenHarpy_Leather.description>шкура гарпии</BeastmenHarpy_Leather.description>
+  <BeastmenHarpy_Leather.stuffProps.stuffAdjective>шкура гарпии</BeastmenHarpy_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Alien_Gor -->
+  <BeastmenHarpy_Corpse.label>труп гарпии</BeastmenHarpy_Corpse.label>
+  <BeastmenHarpy_Corpse.description>труп гарпии</BeastmenHarpy_Corpse.description>
+
+
+</LanguageData>

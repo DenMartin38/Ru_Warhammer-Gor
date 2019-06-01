@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GorRightHorn.label>правый рог</GorRightHorn.label>
+  <GorRightHorn.labelShort>рог</GorRightHorn.labelShort>
+
+  <GorLeftHorn.label>левый рог</GorLeftHorn.label>
+  <GorLeftHorn.labelShort>рог</GorLeftHorn.labelShort>
+
+  <GorHorn.label>рог</GorHorn.label>
+
+
+</LanguageData>

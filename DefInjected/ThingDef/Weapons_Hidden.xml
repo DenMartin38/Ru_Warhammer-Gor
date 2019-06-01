@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Proj_CygorRock.label>валун</Proj_CygorRock.label>
+
+  <Weapon_CygorRock.label>валун</Weapon_CygorRock.label>
+  <Weapon_CygorRock.description>Огромный валун.</Weapon_CygorRock.description>
+  <Weapon_CygorRock.verbs.0.label>бросить валун</Weapon_CygorRock.verbs.0.label>
+
+
+</LanguageData>

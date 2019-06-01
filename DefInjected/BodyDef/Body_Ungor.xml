@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Ungor.label>ангор</Ungor.label>
+  <Ungor.corePart.parts.6.customLabel>левое лёгкое</Ungor.corePart.parts.6.customLabel>
+  <Ungor.corePart.parts.7.customLabel>правое лёгкое</Ungor.corePart.parts.7.customLabel>
+  <Ungor.corePart.parts.8.customLabel>левая почка</Ungor.corePart.parts.8.customLabel>
+  <Ungor.corePart.parts.9.customLabel>правая почка</Ungor.corePart.parts.9.customLabel>
+  <Ungor.corePart.parts.11.parts.0.parts.1.customLabel>левый глаз</Ungor.corePart.parts.11.parts.0.parts.1.customLabel>
+  <Ungor.corePart.parts.11.parts.0.parts.2.customLabel>правый глаз</Ungor.corePart.parts.11.parts.0.parts.2.customLabel>
+  <Ungor.corePart.parts.11.parts.0.parts.3.customLabel>левое ухо</Ungor.corePart.parts.11.parts.0.parts.3.customLabel>
+  <Ungor.corePart.parts.11.parts.0.parts.4.customLabel>правое ухо</Ungor.corePart.parts.11.parts.0.parts.4.customLabel>
+  <Ungor.corePart.parts.12.customLabel>левое плечо</Ungor.corePart.parts.12.customLabel>
+  <Ungor.corePart.parts.12.parts.0.customLabel>левая ключица</Ungor.corePart.parts.12.parts.0.customLabel>
+  <Ungor.corePart.parts.12.parts.1.customLabel>левая рука</Ungor.corePart.parts.12.parts.1.customLabel>
+  <Ungor.corePart.parts.12.parts.1.parts.0.customLabel>левая плечевая кость</Ungor.corePart.parts.12.parts.1.parts.0.customLabel>
+  <Ungor.corePart.parts.12.parts.1.parts.1.customLabel>левая лучевая кость</Ungor.corePart.parts.12.parts.1.parts.1.customLabel>
+  <Ungor.corePart.parts.12.parts.1.parts.2.customLabel>левая ладонь</Ungor.corePart.parts.12.parts.1.parts.2.customLabel>
+  <Ungor.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>левый мизинец</Ungor.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>
+  <Ungor.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>левый безымянный палец</Ungor.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>
+  <Ungor.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>левый средний палец</Ungor.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>
+  <Ungor.corePart.parts.12.parts.1.parts.2.parts.3.customLabel>левый указательный палец</Ungor.corePart.parts.12.parts.1.parts.2.parts.3.customLabel>
+  <Ungor.corePart.parts.12.parts.1.parts.2.parts.4.customLabel>левый большой палец</Ungor.corePart.parts.12.parts.1.parts.2.parts.4.customLabel>
+  <Ungor.corePart.parts.13.customLabel>правое плечо</Ungor.corePart.parts.13.customLabel>
+  <Ungor.corePart.parts.13.parts.0.customLabel>правая ключица</Ungor.corePart.parts.13.parts.0.customLabel>
+  <Ungor.corePart.parts.13.parts.1.customLabel>правая рука</Ungor.corePart.parts.13.parts.1.customLabel>
+  <Ungor.corePart.parts.13.parts.1.parts.0.customLabel>правая плечевая кость</Ungor.corePart.parts.13.parts.1.parts.0.customLabel>
+  <Ungor.corePart.parts.13.parts.1.parts.1.customLabel>правая лучевая кость</Ungor.corePart.parts.13.parts.1.parts.1.customLabel>
+  <Ungor.corePart.parts.13.parts.1.parts.2.customLabel>правая ладонь</Ungor.corePart.parts.13.parts.1.parts.2.customLabel>
+  <Ungor.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>правый мизинец</Ungor.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>
+  <Ungor.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>правый безымянный палец</Ungor.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>
+  <Ungor.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>правый средний палец</Ungor.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>
+  <Ungor.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>правый указательный палец</Ungor.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>
+  <Ungor.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>правый большой палец</Ungor.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>
+  <Ungor.corePart.parts.15.customLabel>левая нога</Ungor.corePart.parts.15.customLabel>
+  <Ungor.corePart.parts.15.parts.0.customLabel>левая бедренная кость</Ungor.corePart.parts.15.parts.0.customLabel>
+  <Ungor.corePart.parts.15.parts.1.customLabel>левая берцовая кость</Ungor.corePart.parts.15.parts.1.customLabel>
+  <Ungor.corePart.parts.15.parts.2.customLabel>левое копыто</Ungor.corePart.parts.15.parts.2.customLabel>
+  <Ungor.corePart.parts.16.customLabel>правая нога</Ungor.corePart.parts.16.customLabel>
+  <Ungor.corePart.parts.16.parts.0.customLabel>правая бедренная кость</Ungor.corePart.parts.16.parts.0.customLabel>
+  <Ungor.corePart.parts.16.parts.1.customLabel>правая берцовая кость</Ungor.corePart.parts.16.parts.1.customLabel>
+  <Ungor.corePart.parts.16.parts.2.customLabel>правое копыто</Ungor.corePart.parts.16.parts.2.customLabel>
+
+
+</LanguageData>

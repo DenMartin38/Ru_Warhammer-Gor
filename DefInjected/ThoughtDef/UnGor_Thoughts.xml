@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Death -->
+
+  <!--[Core] <MySonDied.stages.0.label>my son {0} died</MySonDied.stages.0.label>-->
+  <!--[Core] <MySonDied.stages.0.description>My son is dead. My own flesh and blood...</MySonDied.stages.0.description>-->
+
+  <!--[Core] <MyDaughterDied.stages.0.label>my daughter {0} died</MyDaughterDied.stages.0.label>-->
+  <!--[Core] <MyDaughterDied.stages.0.description>My daughter is dead. My own flesh and blood...</MyDaughterDied.stages.0.description>-->
+
+  <!--[Core] <MyBrotherDied.stages.0.label>my brother {0} died</MyBrotherDied.stages.0.label>-->
+  <!--[Core] <MyBrotherDied.stages.0.description>My brother died. My own flesh and blood...</MyBrotherDied.stages.0.description>-->
+
+  <!--[Core] <MySisterDied.stages.0.label>my sister {0} died</MySisterDied.stages.0.label>-->
+  <!--[Core] <MySisterDied.stages.0.description>My sister died. My own flesh and blood...</MySisterDied.stages.0.description>-->
+
+  <!--[Core] <MyGrandchildDied.stages.0.label>my grandchild {0} died</MyGrandchildDied.stages.0.label>-->
+  <!--[Core] <MyGrandchildDied.stages.0.description>My grandchild died. My own flesh and blood...</MyGrandchildDied.stages.0.description>-->
+
+  <!--[Core] <MyFatherDied.stages.0.label>my father {0} died</MyFatherDied.stages.0.label>-->
+  <!--[Core] <MyFatherDied.stages.0.description>My father died. He's gone forever.</MyFatherDied.stages.0.description>-->
+
+  <!--[Core] <MyMotherDied.stages.0.label>my mother {0} died</MyMotherDied.stages.0.label>-->
+  <!--[Core] <MyMotherDied.stages.0.description>My mother died. She's gone forever.</MyMotherDied.stages.0.description>-->
+
+  <!--[Core] <MyNieceDied.stages.0.label>my niece {0} died</MyNieceDied.stages.0.label>-->
+  <!--[Core] <MyNieceDied.stages.0.description>My niece died. Such a wonderful child.</MyNieceDied.stages.0.description>-->
+
+  <!--[Core] <MyNephewDied.stages.0.label>my nephew {0} died</MyNephewDied.stages.0.label>-->
+  <!--[Core] <MyNephewDied.stages.0.description>My nephew died. Such a wonderful child.</MyNephewDied.stages.0.description>-->
+
+
+  <!-- Married -->
+
+  <UnGorGotMarried.stages.0.label>свадьба с {0}</UnGorGotMarried.stages.0.label>
+  <UnGorGotMarried.stages.0.description>Я чувствую какое-то тепло внутри меня.</UnGorGotMarried.stages.0.description>
+
+  <UnGorMyOrganHarvested.stages.0.label>вырезан орган</UnGorMyOrganHarvested.stages.0.label>
+  <UnGorMyOrganHarvested.stages.0.description>У меня удалили орган!</UnGorMyOrganHarvested.stages.0.description>
+
+  <UnGorWasImprisoned.stages.0.label>заключение в тюрьме</UnGorWasImprisoned.stages.0.label>
+  <UnGorWasImprisoned.stages.0.description>Они держат меня в тюрьме.</UnGorWasImprisoned.stages.0.description>
+
+  <UnGorWitnessedDeathFamily.stages.0.label>свидетель смерти члена семьи</UnGorWitnessedDeathFamily.stages.0.label>
+  <UnGorWitnessedDeathFamily.stages.0.description>Моя кровь и плоть! Мертва!</UnGorWitnessedDeathFamily.stages.0.description>
+
+
+  <!-- Rescue quest -->
+
+  <UnGorRescued.stages.0.label>спасение</UnGorRescued.stages.0.label>
+  <UnGorRescued.stages.0.description>Я жив!</UnGorRescued.stages.0.description>
+
+  <UnGorFailedRomanceAttemptOnMeLowOpinionMood.stages.0.label>пришлось отвергнуть {0}</UnGorFailedRomanceAttemptOnMeLowOpinionMood.stages.0.label>
+  <UnGorFailedRomanceAttemptOnMeLowOpinionMood.stages.0.description>Да что им нужно?!</UnGorFailedRomanceAttemptOnMeLowOpinionMood.stages.0.description>
+
+  <UnGorRejectedMyProposal.stages.0.label>отверг(ла) моё предложение</UnGorRejectedMyProposal.stages.0.label>
+
+  <!--[Core] <RejectedMyProposalMood.stages.0.label>my proposal was rejected by {0}</RejectedMyProposalMood.stages.0.label>-->
+  <!--[Core] <RejectedMyProposalMood.stages.0.description>I thought we were meant to marry. But I was just shot down.</RejectedMyProposalMood.stages.0.description>-->
+
+  <UnGorIRejectedTheirProposal.stages.0.label>Какое оскорбление.</UnGorIRejectedTheirProposal.stages.0.label>
+
+  <UnGorOpinionOfMyLover.stages.0.label>мнение о {0} {1}</UnGorOpinionOfMyLover.stages.0.label>
+  <UnGorOpinionOfMyLover.stages.0.description>Я чувствую тепло внутри меня.</UnGorOpinionOfMyLover.stages.0.description>
+
+  <UnGorInsultedMood.stages.0.label>оскорблён</UnGorInsultedMood.stages.0.label>
+  <UnGorInsultedMood.stages.0.description>Это больно.</UnGorInsultedMood.stages.0.description>
+
+
+</LanguageData>

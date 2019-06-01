@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- general -->
+
+  <Gorebull.label>кровавый бык</Gorebull.label>
+  <Gorebull.labelPlural>кровавые быки</Gorebull.labelPlural>
+  <Gorebull.labelMale>кровавый бык</Gorebull.labelMale>
+  <Gorebull.labelMalePlural>кровавые быки</Gorebull.labelMalePlural>
+  <Gorebull.labelFemale>кровавый бык</Gorebull.labelFemale>
+  <Gorebull.labelFemalePlural>кровавые быки</Gorebull.labelFemalePlural>
+
+
+  <!-- Soldiers -->
+
+  <Minotaur.label>минотавр</Minotaur.label>
+  <Minotaur.labelPlural>минотавры</Minotaur.labelPlural>
+  <Minotaur.labelMale>минотавр</Minotaur.labelMale>
+  <Minotaur.labelMalePlural>минотавры</Minotaur.labelMalePlural>
+  <Minotaur.labelFemale>минотавр</Minotaur.labelFemale>
+  <Minotaur.labelFemalePlural>минотавры</Minotaur.labelFemalePlural>
+
+
+  <!-- Player -->
+
+  <BullgorFaction.label>булгор</BullgorFaction.label>
+  <BullgorFaction.labelPlural>булгоры</BullgorFaction.labelPlural>
+  <BullgorFaction.labelMale>булгор</BullgorFaction.labelMale>
+  <BullgorFaction.labelMalePlural>булгоры</BullgorFaction.labelMalePlural>
+  <BullgorFaction.labelFemale>булгор</BullgorFaction.labelFemale>
+  <BullgorFaction.labelFemalePlural>булгоры</BullgorFaction.labelFemalePlural>
+
+  <BullgorColony.label>булгор</BullgorColony.label>
+  <BullgorColony.labelPlural>булгоры</BullgorColony.labelPlural>
+  <BullgorColony.labelMale>булгор</BullgorColony.labelMale>
+  <BullgorColony.labelMalePlural>булгоры</BullgorColony.labelMalePlural>
+  <BullgorColony.labelFemale>булгор</BullgorColony.labelFemale>
+  <BullgorColony.labelFemalePlural>булгоры</BullgorColony.labelFemalePlural>
+
+  <BullgorTribe.label>булгор</BullgorTribe.label>
+  <BullgorTribe.labelPlural>булгоры</BullgorTribe.labelPlural>
+  <BullgorTribe.labelMale>булгор</BullgorTribe.labelMale>
+  <BullgorTribe.labelMalePlural>булгоры</BullgorTribe.labelMalePlural>
+  <BullgorTribe.labelFemale>булгор</BullgorTribe.labelFemale>
+  <BullgorTribe.labelFemalePlural>булгоры</BullgorTribe.labelFemalePlural>
+
+
+  <!-- Special -->
+
+  <BullgorExile.label>изгнанник</BullgorExile.label>
+  <BullgorExile.labelPlural>изгнанники</BullgorExile.labelPlural>
+  <BullgorExile.labelMale>изгнанник</BullgorExile.labelMale>
+  <BullgorExile.labelMalePlural>изгнанники</BullgorExile.labelMalePlural>
+  <BullgorExile.labelFemale>изгнанник</BullgorExile.labelFemale>
+  <BullgorExile.labelFemalePlural>изгнанники</BullgorExile.labelFemalePlural>
+
+
+</LanguageData>

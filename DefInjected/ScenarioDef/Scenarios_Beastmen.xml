@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Bestigor scenario -->
+
+  <Beastmen_Ungor.label>Потерянный Бестигор</Beastmen_Ungor.label>
+  <Beastmen_Ungor.description>Изгнан из стада после потери своего положения в поединке. Вы уходите, но только для того, чтобы создать собственное стадо и показать им, что вы самый сильный.</Beastmen_Ungor.description>
+  <Beastmen_Ungor.scenario.name>Потерянный Бестигор</Beastmen_Ungor.scenario.name>
+  <Beastmen_Ungor.scenario.summary>Одинокий Бестигор, изгнанный из стада с позором.</Beastmen_Ungor.scenario.summary>
+  <Beastmen_Ungor.scenario.description>Изгнан из стада после потери своего положения в поединке. Вы уходите, но только для того, чтобы создать собственное стадо и показать им, что вы самый сильный.</Beastmen_Ungor.scenario.description>
+  <Beastmen_Ungor.scenario.parts.8.text>Стадо ушло. Вы пытались защитить своё положение, но проиграли. Изгнанный из стада в стыде, вы были оставлены позади. Теперь ничего не осталось, как собрать собственное стадо и показать им, что вы сильнейший.</Beastmen_Ungor.scenario.parts.8.text>
+
+
+  <!-- Beastmen scenario -->
+
+  <Beastmen_StandradScenario.label>Рассвет зверолюдей</Beastmen_StandradScenario.label>
+  <Beastmen_StandradScenario.description>Группа зверолюдей намеревается создать собственное стадо. Выберите 4 зверолюдей и примите вызов в создании стада.</Beastmen_StandradScenario.description>
+  <Beastmen_StandradScenario.scenario.name>Рассвет зверолюдей</Beastmen_StandradScenario.scenario.name>
+  <Beastmen_StandradScenario.scenario.summary>Постройте свою колонию зверолюдей.</Beastmen_StandradScenario.scenario.summary>
+  <Beastmen_StandradScenario.scenario.description>Группа зверолюдей намеревается создать собственное стадо. Выберите 4 зверолюдей и примите вызов в создании стада.</Beastmen_StandradScenario.scenario.description>
+  <Beastmen_StandradScenario.scenario.parts.7.text>Уставшая от гнёта предыдущего стада, группа зверолюдей решила сбежать и создать собственное.</Beastmen_StandradScenario.scenario.parts.7.text>
+
+
+</LanguageData>
