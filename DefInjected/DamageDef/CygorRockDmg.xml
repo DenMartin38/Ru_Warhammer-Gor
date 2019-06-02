@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CygorBomb.label>валун</CygorBomb.label>
+  <CygorBomb.deathMessage>{0} раздавлен валуном.</CygorBomb.deathMessage>
+
+
+</LanguageData>

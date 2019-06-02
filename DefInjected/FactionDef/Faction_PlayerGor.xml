@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GorPlayerFaction.label>стадо изгоев</GorPlayerFaction.label>
+  <GorPlayerFaction.description>Бестигор, проигравший поединок. В последствии был изнан. Теперь ему необходимо собрать своё стадо.</GorPlayerFaction.description>
+  <GorPlayerFaction.pawnsPlural>изгои</GorPlayerFaction.pawnsPlural>
+
+  <BeastmenPlayerFaction.label>колония зверолюдей</BeastmenPlayerFaction.label>
+  <BeastmenPlayerFaction.description>Колония, построенная зверолюдьми.</BeastmenPlayerFaction.description>
+
+
+</LanguageData>
