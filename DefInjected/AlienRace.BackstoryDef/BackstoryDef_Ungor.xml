@@ -3,52 +3,52 @@
 
   <!-- Adulthood -->
 
-  <UnTurned.title>mutant</UnTurned.title>
-  <UnTurned.titleShort>turned</UnTurned.titleShort>
-  <UnTurned.baseDescription>[PAWN_nameDef] was turned by chaos.</UnTurned.baseDescription>
+  <UnTurned.title>мутант</UnTurned.title>
+  <UnTurned.titleShort>обратившийся</UnTurned.titleShort>
+  <UnTurned.baseDescription>[PAWN_nameDef] был обращён хаосом.</UnTurned.baseDescription>
 
-  <UnTurnedRich.title>mutant</UnTurnedRich.title>
-  <UnTurnedRich.titleShort>turned</UnTurnedRich.titleShort>
-  <UnTurnedRich.baseDescription>[PAWN_nameDef] was turned by chaos.</UnTurnedRich.baseDescription>
+  <UnTurnedRich.title>мутант</UnTurnedRich.title>
+  <UnTurnedRich.titleShort>обратившийся</UnTurnedRich.titleShort>
+  <UnTurnedRich.baseDescription>[PAWN_nameDef] был обращён хаосом.</UnTurnedRich.baseDescription>
 
-  <UnRaider.title>raider</UnRaider.title>
-  <UnRaider.titleShort>raider</UnRaider.titleShort>
-  <UnRaider.baseDescription>[PAWN_nameDef] is cut from the same cloth as the rest of the herd.</UnRaider.baseDescription>
+  <UnRaider.title>рейдер</UnRaider.title>
+  <UnRaider.titleShort>рейдер</UnRaider.titleShort>
+  <UnRaider.baseDescription>[PAWN_nameDef] соткан из тех же ниток, что и остальное стадо.</UnRaider.baseDescription>
 
-  <UnThrall.title>thrall</UnThrall.title>
-  <UnThrall.titleShort>thrall</UnThrall.titleShort>
-  <UnThrall.baseDescription>[PAWN_nameDef] scrapes by as a menial thrall.</UnThrall.baseDescription>
+  <UnThrall.title>раб</UnThrall.title>
+  <UnThrall.titleShort>раб</UnThrall.titleShort>
+  <UnThrall.baseDescription>[PAWN_nameDef] прислуживает стаду в качестве раба. Ниже падать некуда.</UnThrall.baseDescription>
 
-  <UnGrunt.title>grunt</UnGrunt.title>
-  <UnGrunt.titleShort>grunt</UnGrunt.titleShort>
-  <UnGrunt.baseDescription>[PAWN_nameDef] is average rough and vile ungor. A lower cast of beastmen that lives of the scraps of the herd.</UnGrunt.baseDescription>
+  <UnGrunt.title>пехотинец</UnGrunt.title>
+  <UnGrunt.titleShort>пехотинец</UnGrunt.titleShort>
+  <UnGrunt.baseDescription>[PAWN_nameDef] грубый и мерзкий ангор. Низшая каста зверолюдей, живущая ради прислуживания стаду.</UnGrunt.baseDescription>
 
 
   <!-- Childhood -->
 
-  <UnWild.title>wildling</UnWild.title>
-  <UnWild.titleShort>wild</UnWild.titleShort>
-  <UnWild.baseDescription>[PAWN_nameDef] was born as a mutant. Left in the wilds like so many other mutant children. Picked up by a nearby gor herd that heard the mutant child calling.</UnWild.baseDescription>
+  <UnWild.title>одичавший</UnWild.title>
+  <UnWild.titleShort>дикий</UnWild.titleShort>
+  <UnWild.baseDescription>[PAWN_nameDef] родился мутантом. Был оставлен в дебрях, как и многие другие дети-мутанты. А позже был подобран проходящим стадом горов, услышавшие зов ребенка-мутанта.</UnWild.baseDescription>
 
-  <UnOutcast.title>outcast</UnOutcast.title>
-  <UnOutcast.titleShort>outcast</UnOutcast.titleShort>
-  <UnOutcast.baseDescription>[PAWN_nameDef] was born as a mutant, but was never chased out of the village. [PAWN_nameDef] lived life in the outskirts never loved yet never fully despised.</UnOutcast.baseDescription>
+  <UnOutcast.title>изгнанник</UnOutcast.title>
+  <UnOutcast.titleShort>изгнанник</UnOutcast.titleShort>
+  <UnOutcast.baseDescription>[PAWN_nameDef] родился мутантом, но не был изгнан из деревни. [PAWN_nameDef] прожил жизнь на окраинах, которую никогда не любил, но и никогда полностью не презирал.</UnOutcast.baseDescription>
 
-  <UnCared.title>cared for</UnCared.title>
-  <UnCared.titleShort>cared</UnCared.titleShort>
-  <UnCared.baseDescription>[PAWN_nameDef] was born as a mutant, but the parents could never muster the courage to leave [PAWN_nameDef] in the wood like so many other did. [PAWN_nameDef] was cared for through childhood but the future looked bleak since [PAWN_nameDef] parents coudn't protect it forever.</UnCared.baseDescription>
+  <UnCared.title>домашний ребёнок</UnCared.title>
+  <UnCared.titleShort>домашний ребёнок</UnCared.titleShort>
+  <UnCared.baseDescription>[PAWN_nameDef] родился мутантом, но родители никогда не могли набраться смелости, чтобы оставить [PAWN_nameDef] в лесу, как это сделали многие другие. За [PAWN_nameDef] ухаживали в детстве, но будущее выглядело безрадостным, поскольку родители [PAWN_nameDef] не могли защищать его вечно.</UnCared.baseDescription>
 
-  <UnStrange.title>strange child</UnStrange.title>
-  <UnStrange.titleShort>strange</UnStrange.titleShort>
-  <UnStrange.baseDescription>[PAWN_nameDef] was born as a mutant. Abandoned like so many other mutants [PAWN_nameDef] was left to fend for itself in a passing gor herd. [PAWN_nameDef] was a stranger than the rest of the mutant children, a mind touched by chaos throwing [PAWN_nameDef] into mania from time to time.</UnStrange.baseDescription>
+  <UnStrange.title>странный ребёнок</UnStrange.title>
+  <UnStrange.titleShort>странный</UnStrange.titleShort>
+  <UnStrange.baseDescription>[PAWN_nameDef] родился мутантом. Брошенный, как и многие другие мутанты, [PAWN_nameDef], был оставлен на произвол судьбы в проходящем стаде. [PAWN_nameDef] был страннее, чем другие дети-мутанты, разум, которого затронул хаос, время от времени выбрасывающий [PAWN_nameDef] в манию.</UnStrange.baseDescription>
 
-  <UnChild.title>farm child</UnChild.title>
-  <UnChild.titleShort>farmer</UnChild.titleShort>
-  <UnChild.baseDescription>[PAWN_nameDef] wasn't born as a mutant. [PAWN_nameDef] lived life as a farmers child.  [PAWN_nameDef] was later in life corrupted by chaos. When fleeing for its life [PAWN_nameDef] came across a gor herd passing by and joined the lower cast like the rest of the ungors.</UnChild.baseDescription>
+  <UnChild.title>фермерский ребенок</UnChild.title>
+  <UnChild.titleShort>фермер</UnChild.titleShort>
+  <UnChild.baseDescription>[PAWN_nameDef] не был рожден как мутант. [PAWN_nameDef] жил жизнью ребёнка фермера. Позднее [PAWN_nameDef] был испорчен хаосом. В результате присоединился к стаду гор и пополнил ряды низшей касты ангоров.</UnChild.baseDescription>
 
-  <UnChildRich.title>rich child</UnChildRich.title>
-  <UnChildRich.titleShort>rich</UnChildRich.titleShort>
-  <UnChildRich.baseDescription>[PAWN_nameDef] wasn't born as a mutant. [PAWN_nameDef] was born in a rich family. Spending childhood studying the arts of a aristocrat. [PAWN_nameDef] was later in life corrupted by chaos. When fleeing for its life [PAWN_nameDef] came across a gor herd passing by and joined the lower cast like the rest of the ungors.</UnChildRich.baseDescription>
+  <UnChildRich.title>богатый ребенок</UnChildRich.title>
+  <UnChildRich.titleShort>богатый</UnChildRich.titleShort>
+  <UnChildRich.baseDescription>[PAWN_nameDef] не был рожден как мутант. [PAWN_nameDef] родился в богатой семье. Проводил детство, изучая аристократическое искусство. Позднее [PAWN_nameDef] был испорчен хаосом. When fleeing for its life В результате присоединился к стаду гор и пополнил ряды низшей касты ангоров.</UnChildRich.baseDescription>
 
 
 </LanguageData>

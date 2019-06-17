@@ -3,32 +3,32 @@
 
   <!-- Adulthood -->
 
-  <Gorebull.title>big horned</Gorebull.title>
-  <Gorebull.titleShort>horned</Gorebull.titleShort>
-  <Gorebull.baseDescription>[PAWN_nameDef] horns show that [PAWN_nameDef] belongs to the stronger ones. Larger horns are carried with pride, proof that you are blessed with strength and stand above the lesser kind.</Gorebull.baseDescription>
+  <Gorebull.title>большерогий</Gorebull.title>
+  <Gorebull.titleShort>рогатый</Gorebull.titleShort>
+  <Gorebull.baseDescription>Рога [PAWN_nameDef] означают, что [PAWN_nameDef] принадлежит более сильным. Большие рога носят с гордостью в доказательство того, что вы наделены силой и стоите выше меньшего рода.</Gorebull.baseDescription>
 
-  <BullgorRaider.title>raider</BullgorRaider.title>
-  <BullgorRaider.titleShort>raider</BullgorRaider.titleShort>
-  <BullgorRaider.baseDescription>[PAWN_nameDef] lives for violence. The only thing that brins joy to [PAWN_nameDef] is the bloodshed of humanity.</BullgorRaider.baseDescription>
+  <BullgorRaider.title>рейдер</BullgorRaider.title>
+  <BullgorRaider.titleShort>рейдер</BullgorRaider.titleShort>
+  <BullgorRaider.baseDescription>[PAWN_nameDef] живёт ради насилия. Единственное, что приносит радость [PAWN_nameDef] это - кровопролитие человечества.</BullgorRaider.baseDescription>
 
-  <BullgorGrunt.title>grunt</BullgorGrunt.title>
-  <BullgorGrunt.titleShort>grunt</BullgorGrunt.titleShort>
-  <BullgorGrunt.baseDescription>[PAWN_nameDef] is average rough and vile Gor.</BullgorGrunt.baseDescription>
+  <BullgorGrunt.title>пехотинец</BullgorGrunt.title>
+  <BullgorGrunt.titleShort>пехотинец</BullgorGrunt.titleShort>
+  <BullgorGrunt.baseDescription>[PAWN_nameDef] грубый и мерзкий гор.</BullgorGrunt.baseDescription>
 
 
   <!-- Childhood -->
 
-  <BullgorWild.title>wildling</BullgorWild.title>
-  <BullgorWild.titleShort>wild</BullgorWild.titleShort>
-  <BullgorWild.baseDescription>[PAWN_nameDef] was born as a bullgor to a human family. Left in the wilds like so many other mutant children. Picked up by a nearby gor herd that heard the mutant child calling.</BullgorWild.baseDescription>
+  <BullgorWild.title>одичавший</BullgorWild.title>
+  <BullgorWild.titleShort>дикий</BullgorWild.titleShort>
+  <BullgorWild.baseDescription>[PAWN_nameDef] родился булгором в человеческой семье. Был оставлен в дебрях, как и многие другие дети-мутанты. А позже был подобран проходящим стадом горов, услышавшие зов ребенка-мутанта.</BullgorWild.baseDescription>
 
-  <BullgorChild.title>herd born</BullgorChild.title>
-  <BullgorChild.titleShort>herd</BullgorChild.titleShort>
-  <BullgorChild.baseDescription>[PAWN_nameDef] was born as a bullgor. The only life [PAWN_nameDef] know of is the herd.</BullgorChild.baseDescription>
+  <BullgorChild.title>рождённый стадом</BullgorChild.title>
+  <BullgorChild.titleShort>стадный</BullgorChild.titleShort>
+  <BullgorChild.baseDescription>[PAWN_nameDef] родился булгором и всю жизнь провёл в стаде.</BullgorChild.baseDescription>
 
-  <BullgorStrange.title>strange bullgor</BullgorStrange.title>
-  <BullgorStrange.titleShort>strange</BullgorStrange.titleShort>
-  <BullgorStrange.baseDescription>[PAWN_nameDef] was born as a mutant. Abandoned like so many other mutants [PAWN_nameDef] was left to fend for itself in a passing gor herd. [PAWN_nameDef] was a stranger than the rest of the mutant children, a mind touched by chaos throwing [PAWN_nameDef] into mania from time to time.</BullgorStrange.baseDescription>
+  <BullgorStrange.title>странный булгор</BullgorStrange.title>
+  <BullgorStrange.titleShort>странный</BullgorStrange.titleShort>
+  <BullgorStrange.baseDescription>[PAWN_nameDef] родился мутантом. Брошенный, как и многие другие мутанты, [PAWN_nameDef], был оставлен на произвол судьбы в проходящем стаде. [PAWN_nameDef] был страннее, чем другие дети-мутанты, разум, которого затронул хаос, время от времени выбрасывающий [PAWN_nameDef] в манию.</BullgorStrange.baseDescription>
 
 
 </LanguageData>

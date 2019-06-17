@@ -45,5 +45,37 @@
   <UngorTribe.labelFemale>ангор</UngorTribe.labelFemale>
   <UngorTribe.labelFemalePlural>ангоры</UngorTribe.labelFemalePlural>
 
+<!-- Player Scenario - Bestigor -->
 
+  <GorScenarioBestigor.label>GorScenarioBestigor</GorScenarioBestigor.label>
+  <GorScenarioBestigor.labelPlural>GorScenarioBestigors</GorScenarioBestigor.labelPlural>
+  <GorScenarioBestigor.labelMale>male GorScenarioBestigor</GorScenarioBestigor.labelMale>
+  <GorScenarioBestigor.labelMalePlural>male GorScenarioBestigors</GorScenarioBestigor.labelMalePlural>
+  <GorScenarioBestigor.labelFemale>female GorScenarioBestigor</GorScenarioBestigor.labelFemale>
+  <GorScenarioBestigor.labelFemalePlural>female GorScenarioBestigors</GorScenarioBestigor.labelFemalePlural>
+
+
+  <!-- Player Scenario - BeastmenHerd -->
+
+  <BullgorBeastmenPlayer.label>минотавр</BullgorBeastmenPlayer.label>
+  <BullgorBeastmenPlayer.labelPlural>минотавры</BullgorBeastmenPlayer.labelPlural>
+  <BullgorBeastmenPlayer.labelMale>минотавр</BullgorBeastmenPlayer.labelMale>
+  <BullgorBeastmenPlayer.labelMalePlural>минотавры</BullgorBeastmenPlayer.labelMalePlural>
+  <BullgorBeastmenPlayer.labelFemale>минотавр</BullgorBeastmenPlayer.labelFemale>
+  <BullgorBeastmenPlayer.labelFemalePlural>минотавры</BullgorBeastmenPlayer.labelFemalePlural>
+
+  <GorBeastmenPlayer.label>разрушитель</GorBeastmenPlayer.label>
+  <GorBeastmenPlayer.labelPlural>разрушители</GorBeastmenPlayer.labelPlural>
+  <GorBeastmenPlayer.labelMale>разрушитель</GorBeastmenPlayer.labelMale>
+  <GorBeastmenPlayer.labelMalePlural>разрушители</GorBeastmenPlayer.labelMalePlural>
+  <GorBeastmenPlayer.labelFemale>разрушитель</GorBeastmenPlayer.labelFemale>
+  <GorBeastmenPlayer.labelFemalePlural>разрушители</GorBeastmenPlayer.labelFemalePlural>
+
+  <UngorBeastmenPlayer.label>рейдер</UngorBeastmenPlayer.label>
+  <UngorBeastmenPlayer.labelPlural>рейдеры</UngorBeastmenPlayer.labelPlural>
+  <UngorBeastmenPlayer.labelMale>рейдер</UngorBeastmenPlayer.labelMale>
+  <UngorBeastmenPlayer.labelMalePlural>рейдеры</UngorBeastmenPlayer.labelMalePlural>
+  <UngorBeastmenPlayer.labelFemale>рейдер</UngorBeastmenPlayer.labelFemale>
+  <UngorBeastmenPlayer.labelFemalePlural>рейдеры</UngorBeastmenPlayer.labelFemalePlural>
+  
 </LanguageData>

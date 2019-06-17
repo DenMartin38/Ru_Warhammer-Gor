@@ -55,15 +55,15 @@
   <GorExile.labelPlural>изгнанники</GorExile.labelPlural>
   <GorExile.labelMale>изгнанник</GorExile.labelMale>
   <GorExile.labelMalePlural>изгнанники</GorExile.labelMalePlural>
-  <GorExile.labelFemale>изгнанник</GorExile.labelFemale>
-  <GorExile.labelFemalePlural>изгнанники</GorExile.labelFemalePlural>
+  <GorExile.labelFemale>изгнанница</GorExile.labelFemale>
+  <GorExile.labelFemalePlural>изгнанницы</GorExile.labelFemalePlural>
 
   <UngorExile.label>изгнанник</UngorExile.label>
   <UngorExile.labelPlural>изгнанники</UngorExile.labelPlural>
   <UngorExile.labelMale>изгнанник</UngorExile.labelMale>
   <UngorExile.labelMalePlural>изгнанники</UngorExile.labelMalePlural>
-  <UngorExile.labelFemale>изгнанник</UngorExile.labelFemale>
-  <UngorExile.labelFemalePlural>изгнанники</UngorExile.labelFemalePlural>
+  <UngorExile.labelFemale>изгнанница</UngorExile.labelFemale>
+  <UngorExile.labelFemalePlural>изгнанницы</UngorExile.labelFemalePlural>
 
 
 </LanguageData>
